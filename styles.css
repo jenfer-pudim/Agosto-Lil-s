@@ -1,1 +1,21 @@
-
+body {
+background-color: #ffe6f0;
+font-family: Arial, sans-serif;
+padding: 20px;
+}
+h1 {
+color: #d099e0;
+font-size: 32px;
+text-align: center;
+}
+p {
+color: #08091a;
+font-size: 20px;
+line-height: 1.5;
+}
+img {
+display: block;
+margin: 20px auto;
+border: 3px solid #4f2179;
+border-radius: 10px;
+}
