@@ -37,4 +37,11 @@ img{
   border-radius: 10px;
 }
 
-footer
+footer{
+    background-color: #055081;
+  color: #555;
+  text-align: center;
+  padding: 15px;
+  margin-top: 40px;
+  font-size: 14px;
+}
