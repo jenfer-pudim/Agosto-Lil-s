@@ -6,7 +6,7 @@ body{
 }
 
 header{
-  background-color: #a61fb0a3;
+  background-color: #2205fca3;
   color:white;
   padding:20px;
   text-align:center;
@@ -24,7 +24,7 @@ main{
 
 p{
   font-size: 20px;
-  color:rgba(57, 15, 60, 0.639);
+  color:rgba(0, 255, 21, 0.639);
   line-height: 1.6;
   margin-bottom: 15px;
 }
@@ -33,13 +33,13 @@ img{
   display: block;
   margin: 20px auto;
   max-width: 100%;
-  border: 3px solid #c5abfa;
+  border: 3px solid #dca60f;
   border-radius: 10px;
 }
 
 footer{
-    background-color: #3d2346;
-  color: #7a4a88;
+    background-color: #1e67a2;
+  color: #d70c16;
   text-align: center;
   padding: 15px;
   margin-top: 40px;
