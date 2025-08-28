@@ -6,7 +6,7 @@ body{
 }
 
 header{
-  background-color: #2205fca3;
+  background-color: #d999fc;
   color:white;
   padding:20px;
   text-align:center;
@@ -38,7 +38,7 @@ img{
 }
 
 footer{
-    background-color: #1e67a2;
+    background-color: #d999fc;
   color: #d70c16;
   text-align: center;
   padding: 15px;
