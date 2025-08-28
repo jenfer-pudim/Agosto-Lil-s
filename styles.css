@@ -1,12 +1,12 @@
 body{
-  background-color: #e9a7fb;
+  background-color: #d1bdd6ff;
   font-family: Arial, sans-serif;
   padding: 20px;
   margin: 0;
 }
 
 header{
-  background-color: #7f1b87a3;
+  background-color: #a61fb0a3;
   color:white;
   padding:20px;
   text-align:center;
@@ -24,7 +24,7 @@ main{
 
 p{
   font-size: 20px;
-  color: #bd96c8;
+  color:rgba(57, 15, 60, 0.639);
   line-height: 1.6;
   margin-bottom: 15px;
 }
@@ -38,8 +38,8 @@ img{
 }
 
 footer{
-    background-color: #8C52FF;
-  color: #664f85;
+    background-color: #3d2346;
+  color: #7a4a88;
   text-align: center;
   padding: 15px;
   margin-top: 40px;
