@@ -35,13 +35,24 @@ h2 {
     font-weight: bold;
 }
 
-img{
+
+.imagens-lado-a-lado {
+    display: flex;
+    gap: 20px; /* Espaço entre as imagens */
+    justify-content: center; /* Centraliza as imagens na página */
+    flex-wrap: wrap; /* Permite quebrar linha em telas pequenas */
+    margin: 20px 0;
+}
+
+/* Estilo padrão para imagens fora do layout lado a lado */
+img:not(.imagens-lado-a-lado img) {
   display: block;
   margin: 20px auto;
   max-width: 100%;
   border: 3px solid #41045b;
   border-radius: 10px;
 }
+
 
 footer{
     background-color: #d999fc;
