@@ -29,6 +29,12 @@ p{
   margin-bottom: 15px;
 }
 
+h2 {
+    text-align: center;
+    color: #B57EDC; /* tom de lilás */
+    font-weight: bold;
+}
+
 img{
   display: block;
   margin: 20px auto;
